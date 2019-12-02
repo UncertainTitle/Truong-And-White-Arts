@@ -2,3 +2,8 @@ This is all the projects that were completed by William White, Lewis Truong and 
 Ballio was our first attempt at a 3D platformer.
 Legend of Zaldo was our attempt at creating an action game, with an emphasis on making a painless UI.
 Metal Sphere was our attempt at creating a stealth game. Created in a team with 5 members.
+
+These were all class projects created by amateurs.
+
+CURRENT ISSUES: Metal Sphere for some reason is throwing errors when pulling or pushed. In both situations, it claims
+  that certain file names are "too big".
